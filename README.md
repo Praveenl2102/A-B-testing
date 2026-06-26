@@ -254,11 +254,11 @@ The insights generated help stakeholders:
 
 **Madineni Praveen Kumar**
 
-📧 Email: your-email@example.com
+📧 Email: madinenipraveen828@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/your-profile
 
-💻 GitHub: https://github.com/your-username
+💻 GitHub: https://github.com/Praveenl2102
 
 ---
 
