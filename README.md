@@ -90,7 +90,9 @@ Contains user interactions after joining the experiment.
 
 > Replace the image below with your dashboard screenshot.
 
-![Dashboard](Images/dashboard.png)
+<p align="center">
+  <img src="Dashboard.png" alt="A/B Testing Dashboard" width="100%">
+</p>
 
 ---
 
